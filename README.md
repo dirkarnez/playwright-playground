@@ -1,4 +1,6 @@
 # playwright-playground
+[TypeScript | Playwright](https://playwright.dev/docs/test-typescript)
+
 ```
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps

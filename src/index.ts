@@ -119,6 +119,7 @@ import fs from "node:fs";
 
   var lastCourseName: string | null = "";
   // var lastIdxlastPage: number = 0;
+  `//*[@id="mainForm:j_id105_table"]/tbody/tr/td[4 + 0]`;
   var idx = 0;
   while (true) {
     const locator = `//a[@id='mainForm:searchTable:${idx}:subjCode']`;
